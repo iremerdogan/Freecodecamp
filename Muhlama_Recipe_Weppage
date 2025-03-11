@@ -2,29 +2,38 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>MIHLAMA TARİFİ</title>
+    <title>MIHLAMA RECIPE</title>
   </head>
-    <body>
-      <main>
-      <h1>Mıhlama Tarifi</h1>
-      <p>Mıhlama, muhlama ya da kuymak olarak anılan, Karadeniz mutfaklarından çıkıp bugün her mutfakta pişen bu enfes tarifi siz daha önce tatmamışsanız daha fazla zaman kaybetmemelisiniz. Bu lezzeti yaparken temin edebiliyorsanız muhlama peyniri ile yapmalısınız. Ancak temin edemiyorsanız marketlerden alacağınız eriyen peynirlerle de yapabilirsiniz. Mısır unu ile yapılan ve bir kere tadınca bir daha bırakamayacağınız muhlama nasıl yapılır? sizler de merak ediyorsanız tarifi incelemelisiniz.</p>
-      <section>      
-      <p><h2>Ingredients</h2>
-      <ul><li>100 gr tereyağı</li>
-      <li>2 yemek kaşığı mısır unu</li>
-      <li>1 su bardağı su</li>
-      <li>200 gr kolot peyniri</li><ol>
-        </section>
-        <section></p>
-      <p><h2>Instructions</h2>
-      <ol><li>İlk olarak kolot peynirimizi küp küp doğrayarak bir kenara alalım. Muhlama peyniri genel olarak kolot peyniri kullanılmaktadır. Ancak dilerseniz çeçil peyniri ya da kaşar peyniri gibi eriyen diğer peynirlerle de yapabilirsiniz.</li>
-      <li>Ardından ocağa aldığımız tavaya tereyağını ekleyelim ve erimesini bekleyelim.</li>
-      <li>Yağımız eridikten sonra mısır ununu ekleyelim ve karıştırarak kavuralım. Bu aşamada ocağın yüksek ateşte olmamasına dikkat etmelisiniz.</li>
-      <li>Unumuz 1-2 dakika kavrulduktan sonra suyumuzu ekleyelim.</li>
-      <li>Karışımımız krema kıvamına geldikten sonra doğradığımız peynirleri ekleyelim ve peynirlerimiz eriyene kadar kısık ateşte pişirmeye devam edelim.</li>
-      <li>Peynirlerimiz eridikten sonra muhlamamız servise hazır. Yapımı oldukça kolay ve son derece lezzetli muhlama tarifimi deneyecek herkese şimdiden afiyet olsun!</li></ol></p></section>
-       <a href="https://i.nefisyemektarifleri.com/2022/03/29/mihlama-tarifi-muhlama-7.jpg"><img  src="https://i.nefisyemektarifleri.com/2022/03/29/mihlama-tarifi-muhlama-7.jpg"alt="Muhlamanın son hâli"></a>
-        </p>
-    </body>
-  </html>
-</main>
+  <body>
+    <main>
+      <h1>Mıhlama Recipe</h1>
+      <p>Mıhlama, also known as muhlama or kuymak, is a delicious dish originating from the Black Sea cuisine that is now cooked in kitchens everywhere. If you haven't tried this delightful recipe yet, you shouldn't wait any longer. If possible, you should make it with muhlama cheese. However, if you can't find it, you can also use melting cheeses available in supermarkets. If you're curious about how to make this cornmeal-based dish that you won't be able to resist after trying it once, you should check out the recipe.</p>
+      
+      <section>
+        <h2>Ingredients</h2>
+        <ul>
+          <li>100 g butter</li>
+          <li>2 tablespoons cornmeal</li>
+          <li>1 cup of water</li>
+          <li>200 g kolot cheese</li>
+        </ul>
+      </section>
+      
+      <section>
+        <h2>Instructions</h2>
+        <ol>
+          <li>First, dice the kolot cheese and set it aside. Kolot cheese is generally used for muhlama, but you can also use other melting cheeses like çeçil cheese or cheddar cheese if you prefer.</li>
+          <li>Next, add the butter to a pan and let it melt over the stove.</li>
+          <li>Once the butter has melted, add the cornmeal and stir while toasting it. Make sure the heat is not too high during this step.</li>
+          <li>After toasting the cornmeal for 1-2 minutes, add the water.</li>
+          <li>Once the mixture reaches a creamy consistency, add the diced cheese and continue cooking over low heat until the cheese melts.</li>
+          <li>Once the cheese has melted, your muhlama is ready to serve. This easy-to-make and incredibly delicious muhlama recipe is a must-try. Enjoy!</li>
+        </ol>
+      </section>
+      
+      <a href="https://i.nefisyemektarifleri.com/2022/03/29/mihlama-tarifi-muhlama-7.jpg">
+        <img src="https://i.nefisyemektarifleri.com/2022/03/29/mihlama-tarifi-muhlama-7.jpg" alt="Final look of muhlama">
+      </a>
+    </main>
+  </body>
+</html>
