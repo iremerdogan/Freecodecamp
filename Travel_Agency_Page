@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Kösegiller Travel Agency Page</title>
+      <meta name="description" content="Best travel destinations to visit in Gümüşhane, which is an eastern Black-Sea city in Turkiye."
+      />
+  </head>
+  <body>
+    <section>
+      <h1>Travel Destinations</h1>
+<p>Gümüşhane, a city nestled in the rugged mountains of northeastern Turkey, is an often-overlooked destination that offers a wealth of historical, cultural, and natural attractions. Whether you’re a history buff, nature lover, or simply in search of a unique travel experience, Gümüşhane has something for everyone. This guide will take you through the highlights of this fascinating city, ensuring you get the most out of your visit.</p>
+      </section>
+      <section>
+      <h2>Packages</h2>
+      <p>We offer an extensive range of holiday solutions to accommodate the needs of all our clients. From daily excursions in the most beautiful destinations, to thorough tours of hidden villages and Ottoman and Roman traces to discover Gümüşhane's beautiful sides.</p>
+<ul>
+  <li>
+    <a target="_blank" href="https://www.freecodecamp.org/learn">Group Travels</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://www.freecodecamp.org/learn">Private Tours</a>
+  </li>
+</ul>
+<h2>Top Itineraries</h2>
+<figure>
+  <a target="_blank" href="https://turizm.gumushane.edu.tr/media/uploads/turizm/thumbnails/_dsc0093.jpg.400x300_q85_autocrop_crop-smart_upscale.jpg">
+    <img src="https://turizm.gumushane.edu.tr/media/uploads/turizm/thumbnails/_dsc0093.jpg.400x300_q85_autocrop_crop-smart_upscale.jpg" alt="Spider Forest Protection Area">
+  </a>
+  <figcaption>Spider Forest Protection Area</figcaption>
+</figure>
+<figure>
+  <a target="_blank" href="https://gumushane.ktb.gov.tr/TR-57888/karaca-magarasi.html">
+    <img src="https://gumushane.ktb.gov.tr/Resim/225818,karaca-magarasi-9jpg.png?0" alt="Karaca Caves">
+  </a>
+  <figcaption>Karaca Caves</figcaption>
+</figure>
+<figure>
+  <a target="_blank" href="https://gumushane.ktb.gov.tr/TR-57885/tomara-selalesi.html">
+    <img src="https://gumushane.ktb.gov.tr/Resim/237125,dsc4053jpg.png?0" alt="Tomara Waterfalls">
+  </a>
+  <figcaption>Tomara Waterfalls</figcaption>
+</figure>
+    </section>
+  </body>
+</html>
